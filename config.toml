@@ -31,8 +31,8 @@ disqusShortname = "jdunham"
 #
 [params]
     # You can use markdown here.
-    brand = "foobar"
-    topline = "few words about your site"
+    brand = "Jeff Dunham"
+    topline = "Tech, Books, Beer"
     footline = "code with <i class='fa fa-heart'></i>"
 
     # Sidebar position
@@ -41,7 +41,7 @@ disqusShortname = "jdunham"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
-    home = "home"
+    home = "Home"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
@@ -51,7 +51,7 @@ disqusShortname = "jdunham"
     googleAnalytics = "Your Google Analytics tracking code"
 
     # Sidebar social links.
-    github = "enten/hugo-boilerplate" # Your Github profile ID
+    github = "jadunham1" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
