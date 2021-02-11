@@ -1,6 +1,6 @@
-baseURL = "https://blog.jdunham.cloud"
+baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Jeff Dunham"
+title = "Mixedpaper"
 theme = "mixedpaper"
 enableRobotsTXT = true
 paginate = 3 # Set the number of posts to show before overflowing to the next page.
