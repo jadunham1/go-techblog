@@ -23,13 +23,13 @@ book.
 
 Immediately after finishing the book I've had a huge kick to watch some of
 the 80s references I had never seen.  "War Games" held up extremely well, and
-the Back to the Future triology was still extremely entertaining.
+the Back to the Future trilogy was still extremely entertaining.
 
 I haven't yet watched the movie, but plan on settling into it soon.  I've heard
 some pretty mixed reviews.  Similar to most book adaptations, people who have
 read the book in my friend group didn't enjoy the movie as some plot had
 changes.  However for me the actual plot of the book was just ok, I was more
-interested in the world of the OASIS, and the limitation of the avatas within
+interested in the world of the OASIS, and the limitation of the avatars within
 it.
 
 I wouldn't re-read this book, but would give it a solid 8/10.
