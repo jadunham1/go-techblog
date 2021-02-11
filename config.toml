@@ -3,8 +3,8 @@ languageCode = "en-us"
 title = "Jeff Dunham"
 theme = "mixedpaper"
 enableRobotsTXT = true
-paginate = 3 # Set the number of posts to show before overflowing to the next page.
-summaryLength = 100 # Configure how long the post summary should be on the homepage.
+paginate = 5 # Set the number of posts to show before overflowing to the next page.
+summaryLength = 150 # Configure how long the post summary should be on the homepage.
 pygmentsUseClasses = true # enable theme-defined highlight style
 hasCJKLanguage = false
 
@@ -15,12 +15,12 @@ googleAnalytics = ""
 tag = "tags"
 
 [author]
-name = "Hugo Author"
+name = "Jeff Dunham"
 
 [params]
 # Blog description at the top of the homepage. Supports markdown.
 description = "Mixedpaper is a minimalist Hugo theme, perfect for writers and bloggers."
-showReadMore = false
+showReadMore = true
 mainSections = [
 	"post",
 ]
