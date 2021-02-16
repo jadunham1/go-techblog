@@ -3,7 +3,7 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Jeff Dunham"
 theme = "anatole"
-summarylength = 10
+summarylength = 50
 enableEmoji = true
 enableRobotsTXT = true
 
@@ -24,7 +24,7 @@ author = "Jeff Dunham"
 #copyright = "2020-2021"
 description = "Tech, Books, Booze, Running"
 profilePicture = "images/profile.jpg"
-keywords = ""
+keywords = "technology tech blog"
 favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
