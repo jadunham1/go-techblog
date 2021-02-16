@@ -4,3 +4,6 @@
 [submodule "themes/hyde-y2"]
 	path = themes/hyde-y2
 	url = https://github.com/jadunham1/hyde-y
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
