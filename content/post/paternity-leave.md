@@ -15,7 +15,7 @@ In general dads and moms in the tech world are so lucky.  Our parental benefits 
 At my last company we had 3 months of paternity. That's more than my wife received.
 The problem is the problem in the majority of my life.  Guilt.
 
-# Kid #1
+## Kid #1
 
 For my first born I took off a week of work originally and then went back to work thinking my wife and I would stagger our leave.  As we searched for childcare options we found a nanny share with another neighbor down the street.  During peak COVID time this was the dream scenario.  The catch is that the nanny was going to start before my wifes leave was up and before I scheduled to take my leave.  So what did I do?  I didn't take my leave.
 
